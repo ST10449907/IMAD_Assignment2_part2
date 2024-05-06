@@ -19,4 +19,8 @@ The Tamagotchi Virtual pet application contains the following main features:
 My status bar works perfectly. it updates itself when an action is performed. like if the virtual pet is fed, the hunger status will go down or if the virtual pet is cleaned, the cleanliness staus will go up.
 
 FILE IS SUBMITTED IN BRIGHTSPACE..IMAGES
+
+Youtube Video link:
+https://youtu.be/jri8axwaQZc?si=3KmBfVoNk_hv_j47
+
   
