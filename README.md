@@ -16,8 +16,7 @@ The Tamagotchi Virtual pet application contains the following main features:
 2.	Navigation: The application has clear and intuitive navigation from the home page to other sections within the app. It allows for easy access to different environments and features such as feeding, cleaning, and playing with your virtual pet Huskey.
 3.	Feedback and rewards: Visual feedback is used throughout this whole application. If an action is done the user is given feedback on the progress of the Huskey. You can know if the Huskey is happy or sad/Full or hungry/dirty or clean through the feedback feature. I used a text view to output the feedback/status of the virtual pet.
 
-My status bar works perfectly:
-This is the status bar before actions were performed;
- 
-This is my status bar after actions were performed(feeding and Playing)
+My status bar works perfectly. it updates itself when an action is performed. like if the virtual pet is fed, the hunger status will go down or if the virtual pet is cleaned, the cleanliness staus will go up.
+
+FILE IS SUBMITTED IN BRIGHTSPACE..IMAGES
   
